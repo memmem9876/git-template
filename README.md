@@ -13,7 +13,7 @@ git commit -m "dev first commit" --allow-empty
 git push -u origin dev  
 
 git add .  
-git commit -m "dev"
+git commit -m "dev"  
 git push -u origin dev  
 
 ### delete branch local and remote
